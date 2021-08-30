@@ -6,7 +6,7 @@ We have extracted scraped Wikipedia data stored as a JSON, and Kaggle data store
 
 Taking it further we need to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. We've refactored the code to create one function that takes in the three data sources and performs the ETL process by adding the data to a PostgreSQL database.
 
-Deliverable 1: An ETL Function to Read Three Data Files
-Deliverable 2: Extract and Transform the Wikipedia Data
-Deliverable 3: Extract and Transform the Kaggle data
-Deliverable 4: Movie Database
+* Deliverable 1: An ETL Function to Read Three Data Files
+* Deliverable 2: Extract and Transform the Wikipedia Data
+* Deliverable 3: Extract and Transform the Kaggle data
+* Deliverable 4: Movie Database
